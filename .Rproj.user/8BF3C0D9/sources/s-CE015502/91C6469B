@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566910363344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91C6469B",
+    "lastKnownWriteTime" : 1566910805,
+    "last_content_update" : 1566910805370,
+    "path" : "C:/Users/WilliamLetton/OneDrive - Crystallise Limited/boolean_search_within_pdfs/testing script bits.R",
+    "project_path" : "testing script bits.R",
+    "properties" : {
+        "cursorPosition" : "11,15",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

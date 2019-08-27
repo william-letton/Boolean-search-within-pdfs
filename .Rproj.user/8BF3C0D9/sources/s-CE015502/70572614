@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566901194563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4273916431",
+    "id" : "70572614",
+    "lastKnownWriteTime" : 1566914305,
+    "last_content_update" : 1566914305245,
+    "path" : "C:/Users/WilliamLetton/OneDrive - Crystallise Limited/boolean_search_within_pdfs/boolean_pdf.R",
+    "project_path" : "boolean_pdf.R",
+    "properties" : {
+        "cursorPosition" : "57,40",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
